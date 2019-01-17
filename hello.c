@@ -5,8 +5,7 @@
  */
 
 int main(int argc, char **argv) {
-
 	printf("Tyler Bunger\n");
-
+	printf("Mechanical Engineering\n");
 	return 0;
 }
